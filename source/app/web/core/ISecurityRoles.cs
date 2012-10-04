@@ -5,7 +5,8 @@ using System.Text;
 
 namespace app.web.core
 {
-    interface ISecurityRoles
+    public interface ISecurityRoles
     {
+        bool CanRun(string user);
     }
 }

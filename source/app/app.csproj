@@ -108,8 +108,10 @@
     <Compile Include="web\core\IEncapsulateRequestDetails.cs" />
     <Compile Include="web\core\IFindCommands.cs" />
     <Compile Include="web\core\IProcessOneRequest.cs" />
+    <Compile Include="web\core\ISecurityRoles.cs" />
     <Compile Include="web\core\ISupportAUserFeature.cs" />
     <Compile Include="web\core\MatchRequest_Behaviour.cs" />
+    <Compile Include="web\core\RoleBasedSecurity.cs" />
     <Compile Include="web\core\stubs\StubRequestFactory.cs" />
     <Compile Include="web\core\stubs\StubSetOfCommands.cs" />
   </ItemGroup>

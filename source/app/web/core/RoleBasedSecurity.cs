@@ -5,7 +5,7 @@ using System.Text;
 
 namespace app.web.core
 {
-    class RoleBasedSecurity
+    public class RoleBasedSecurity: ISecurityRoles
     {
     }
 }
