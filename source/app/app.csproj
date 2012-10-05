@@ -77,6 +77,8 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CarProject\Track.cs" />
+    <Compile Include="CarProject\Turn.cs" />
     <Compile Include="core\containers\basic\Container.cs" />
     <Compile Include="core\containers\Dependencies.cs" />
     <Compile Include="core\containers\DependencyFactories.cs" />
@@ -86,6 +88,9 @@
     <Compile Include="core\containers\IFindDependencyFactories.cs" />
     <Compile Include="core\containers\ItemCreationFailure_Behaviour.cs" />
     <Compile Include="MessageGenerator.cs" />
+    <Compile Include="CarProject\IMicroCar.cs" />
+    <Compile Include="CarProject\MicroCar.cs" />
+    <Compile Include="CarProject\Point.cs" />
     <Compile Include="web\application\catalogbrowsing\UserConstrainedQuery.cs" />
     <Compile Include="web\application\catalogbrowsing\DepartmentItem.cs" />
     <Compile Include="web\application\catalogbrowsing\IFindInformation.cs" />

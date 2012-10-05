@@ -119,7 +119,10 @@
     <Compile Include="DependenciesSpecs.cs" />
     <Compile Include="DependencyFactoriesSpecs.cs" />
     <Compile Include="FrontControllerSpecs.cs" />
+    <Compile Include="MicroCarSpecs.cs" />
     <Compile Include="RequestCommandSpecs.cs" />
+    <Compile Include="TrackSpecs.cs" />
+    <Compile Include="TurnSpecs.cs" />
     <Compile Include="utility\ObjectFactory.cs" />
     <Compile Include="ViewAReportSecurelySpec.cs" />
     <Compile Include="ViewAReportSpecs.cs" />
