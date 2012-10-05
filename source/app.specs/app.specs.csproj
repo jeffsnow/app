@@ -120,6 +120,7 @@
     <Compile Include="DependencyFactoriesSpecs.cs" />
     <Compile Include="FrontControllerSpecs.cs" />
     <Compile Include="RequestCommandSpecs.cs" />
+    <Compile Include="utility\BowlingSpecs.cs" />
     <Compile Include="utility\ObjectFactory.cs" />
     <Compile Include="ViewAReportSecurelySpec.cs" />
     <Compile Include="ViewAReportSpecs.cs" />
